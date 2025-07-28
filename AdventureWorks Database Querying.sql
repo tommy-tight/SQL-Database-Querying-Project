@@ -13,7 +13,7 @@ WHERE		EmailPromotion = 1
 
 
 -- QUESTION 2 
--- AdventureWorks suffere a security breach on December 31, 2007. Produce a list of 
+-- AdventureWorks suffered a security breach on December 31, 2007. Produce a list of 
 -- current employees who have not changed their passwork since the 
 -- breach. Include first/last names, password change dates, 
 -- and email addresses.
